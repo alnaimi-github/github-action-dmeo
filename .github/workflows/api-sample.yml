@@ -12,7 +12,7 @@ on:
 
 jobs:
   build:
-    name: Simple build
+    name: "Simple build"
     runs-on: ubuntu-latest
 
     steps:
